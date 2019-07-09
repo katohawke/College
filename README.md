@@ -1,4 +1,5 @@
 # College
-Programming labs, tasks in college
+
+***Programming labs, tasks in college***
 ---
 ### Updating
